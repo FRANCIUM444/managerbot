@@ -1,7 +1,7 @@
 {
-      "name": "™°‌ 🫧 🇴 🇽 𝐘 𓃭 🇷 𝐎𝐁𝐎𝐓 ⃟⛦⃕͜༆",
+      "name": "➺𝐆ʀᴏᴜᴘ ✗ 𝐌ᴀɴᴀɢᴇᴍᴇɴᴛ´-",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://graph.org/file/79b2347e9834e02510895.jpg",
+      "logo": "https://graph.org/file/a8d8642349f620107db46.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/PRADHAN474/managerbot",
+   "repository": "https://github.com/FRANCIUM444/managerbot",
    "stack": "heroku-22",
    "addons": [
       {
